@@ -1,3 +1,35 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+[Bb]uilds
+[Ll]ibrary/
+sysinfo.txt
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.tmp
+*.pidb.meta
+
+# ===================================== #
+# Ignored Assets #
+# ===================================== #
+# Standard*Assets/ == not ignored this time because of the limited standard asset usage
+SkyBox*Volume*2/
+LightmapSnapshot.asset
+LightmapSnapshot.asset.meta
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
