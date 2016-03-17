@@ -175,7 +175,6 @@ namespace UnityStandardAssets.Characters.FirstPerson
             //m_FootstepSounds[0] = m_AudioSource.clip;
         }
 
-
         private void UpdateCameraPosition(float speed)
         {
             Vector3 newCameraPosition;
